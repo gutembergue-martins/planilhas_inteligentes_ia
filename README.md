@@ -26,42 +26,28 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
 
  > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp da CAIXA - IA Generativa com Microsoft Copilot em parceria com a [DIO](https://dio.me)
 
-Este projeto tem como objetivo gerar um podcast utilizando ferramentas de IA através de prompts mais detalhado.
-
-Utilizei prompts para gerar cada etapa do processo criativo.
+Este projeto tem como objetivo criar uma planilha eletrônica automatizada buscando iteragir com a IA para gerar insight sobre os dados estruturados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Áudio gerado pela elevenLabs
+- O Excel foi utilizado para criar a planilha eletrônica automatizada
+- O chatgpt foi utilizado para gerar insights sobre os dados da planilha
 - Midjourney para gerar imagens
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-14cf8b5dbeb6807e8ad7d35ef944a49a)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+As instruções para a realização da construção desta planilha foi difundida nas aulas no referido Bootcamp da DIO
 
 ## 👨‍💻 Novato
 
