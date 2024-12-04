@@ -31,7 +31,7 @@
 
  > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp da CAIXA - IA Generativa com Microsoft Copilot em parceria com a [DIO](https://dio.me)
 
-Este projeto tem como objetivo criar uma planilha eletrônica automatizada buscando iteragir com a IA para gerar insight sobre os dados estruturados.
+Este projeto tem como objetivo criar uma planilha eletrônica automatizada buscando interagir com a IA para gerar insight sobre os dados estruturados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
