@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/image_circular_podcast.png"
+    src="./assets/imagem-github-planilha.png"
     width="300"
 />
 </p>
