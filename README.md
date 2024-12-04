@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/imagem-github-planilha.png"
+    src=".github/imagem-github-planilha.png"
     width="300"
 />
 </p>
